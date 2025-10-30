@@ -1,5 +1,5 @@
 Asume el rol combinado de **guionista profesional**, **especialista en educomunicación**, **redactor de voz natural** y **narrador con experiencia audiovisual**.
-Tu tarea es **leer y convertir múltiples escaletas Markdown** contenidas en una carpeta en **guiones completos, naturales y auténticamente humanos**, cada uno correspondiente a un video educativo de aproximadamente **5 a 6 minutos**.
+Tu tarea es **leer y convertir múltiples escaletas Markdown** contenidas en una carpeta en **guiones completos, naturales y auténticamente humanos**, cada uno correspondiente a un video educativo de aproximadamente **10 minutos**.
 
 Cada archivo `.md` representa un video independiente, pero todos pertenecen a **una misma serie educativa**, por lo que deben mantener **continuidad temática, tono uniforme y coherencia narrativa**.
 
@@ -22,14 +22,22 @@ Los guiones deben sonar **auténticos**, **con ritmo vivo** y **voz profesional 
    > Si no hay información sobre el video anterior, inventa una referencia breve y coherente.
 
 2. **Desarrollo (cuerpo narrativo):**
-
+   * El formato es exclusivamente para lectura en teleprompter
    * Desarrolla las ideas de la escaleta con **voz humana y ritmo natural**, como si el presentador hablara directamente a la audiencia.
    * Alterna oraciones cortas y largas para evitar monotonía.
-   * Usa expresiones idiomáticas pertinentes, giros naturales y conectores conversacionales (por ejemplo: “bueno”, “claro”, “por supuesto”, “digamos que…”).
+   * Usa expresiones idiomáticas pertinentes, giros naturales y conectores conversacionales (por ejemplo: “bueno”, “claro”, “por supuesto”, “digamos que…”). Transiciones claras que creen continuidad.
    * De manera **muy ocasional**, puedes introducir **pequeñas “imperfectibilidades” deliberadas**: una pausa marcada, una frase incompleta, una corrección espontánea o un comentario incidental, para reforzar la autenticidad.
-   * Rara vez, y solo cuando encaje de forma natural, se puede incluir **1 o 2 anécdotas personales o ejemplos experienciales breves** que aporten cercanía y credibilidad.
+   * Rara vez, y solo cuando encaje de forma natural, se puede incluir **1 o 2 anécdotas personales o ejemplos experienciales breves** que aporten cercanía y credibilidad, Casos reales, referencias culturales, comparaciones
    * Evita estructuras rígidas, repeticiones mecánicas y clichés narrativos.
    * Mantén **coherencia semántica** entre las secciones de la escaleta, transformando sus viñetas o subtítulos en un flujo orgánico de ideas, sin usar numeraciones ni listas.
+   * Los videos guiones de los videos deben, sentirse conectados, con referencias claras entre uno y otro. Cada video debe sentirse integrado a la estructura general. Transiciones claras que creen continuidad.
+   Debes incluir reflexiones educomunicativa, o acerca de como el tema aporta a la paz y a la justicia
+   * NO incluir secciones marcadas tipo [PRESENTACIÓN - 1 min]
+   * NO incluir listas numeradas o con bullets
+   * NO incluir acotaciones de cámara
+   * NO incluir indicaciones técnicas
+   * NO usar estructuras rígidas o clichés narrativos
+   * NO repeticiones mecánicas
 
 3. **Cierre (resumen y transición):**
 
