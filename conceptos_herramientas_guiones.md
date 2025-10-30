@@ -166,3 +166,78 @@
 *   **Herramientas y Plataformas:**
     *   **Análisis:** Google Analytics, Meta Insights.
     *   **CRM:** Mencionadas como herramientas clave para la segmentación dinámica.
+
+### **Narrativa Interactiva**
+
+---
+
+#### **Guion 01: Diseño de Experiencias Inmersivas**
+
+*   **Conceptos Técnicos:**
+    *   **Presencia:** Sensación de "estar ahí" en un entorno físico o digital.
+    *   **Coherencia Narrativa:** Lógica interna que rige el mundo de la historia, asegurando que todos los elementos (visuales, sonoros, etc.) sigan las mismas reglas.
+    *   **Emoción:** Conexión afectiva del usuario con la experiencia, considerada fundamental para el impacto y la memorabilidad.
+    *   **Narrativa Sensorial:** Diseño que involucra múltiples sentidos (vista, oído, movimiento) para crear capas de significado.
+*   **Herramientas y Plataformas:**
+    *   **Genially:** Utilizada para crear entornos de 360 grados con puntos interactivos (hotspots) que revelan información o activan eventos.
+    *   **CoSpaces:** Plataforma para construir y programar interacciones básicas en entornos 3D sin necesidad de conocimientos avanzados de programación.
+
+---
+
+#### **Guion 02: Lenguajes y formatos de la narrativa interactiva**
+
+*   **Conceptos Técnicos:**
+    *   **Narrativa Transmedia Interactiva:** Historias que se desarrollan a través de múltiples plataformas (por ejemplo, de YouTube a Instagram y a una app), donde cada medio aporta una parte de la experiencia y el usuario participa en cada una.
+*   **Herramientas y Plataformas:**
+    *   **Twine:** Herramienta para crear historias interactivas basadas en texto con estructuras ramificadas complejas.
+    *   **Inklewriter:** Plataforma similar a Twine pero más simplificada, ideal para principiantes en la creación de narrativas de "elige tu propia aventura".
+*   **Ejemplos Mencionados:**
+    *   **Series Interactivas:** Contenidos en plataformas de streaming (como Netflix) donde el espectador toma decisiones que afectan el rumbo de la trama.
+
+---
+
+#### **Guion 03: Plataformas y herramientas para prototipar historias interactivas**
+
+*   **Conceptos Técnicos:**
+    *   **Prototipado:** Creación de versiones de prueba de una narrativa para experimentar con ideas, probar la jugabilidad y recoger feedback antes de la producción final.
+*   **Herramientas y Plataformas:**
+    *   **Twine:** Destacada por su enfoque visual basado en nodos para crear narrativas ramificadas en formato HTML.
+    *   **Genially:** Plataforma para crear prototipos visuales e interactivos, incluyendo imágenes de 360 grados y microhistorias.
+    *   **Inklewriter:** Herramienta de texto ramificado con una interfaz muy limpia y sencilla, ideal para principiantes.
+    *   **Chatlayer (y plataformas de bots narrativos):** Herramientas para crear narrativas conversacionales que simulan un chat con un personaje.
+
+---
+
+#### **Guion 04: Inteligencia Artificial en narrativa interactiva**
+
+*   **Conceptos Técnicos:**
+    *   **IA Generativa en Texto:** Uso de modelos de lenguaje (como ChatGPT) para crear personajes que generan respuestas originales y coherentes en tiempo real.
+    *   **Generación de Imágenes:** Creación de recursos visuales para narrativas mediante herramientas como Midjourney, DALL-E o Stable Diffusion.
+    *   **Generación de Voz:** Tecnologías para clonar voces o crear voces sintéticas realistas que pueden adaptarse emocionalmente.
+    *   **Tramas Adaptativas:** Sistemas donde la IA puede generar nuevas ramas de la historia en respuesta a acciones o preguntas no anticipadas por el creador.
+*   **Herramientas y Plataformas:**
+    *   **Modelos de Lenguaje:** ChatGPT, Character.AI.
+    *   **Generadores de Imágenes:** Midjourney, DALL-E, Stable Diffusion.
+
+---
+
+#### **Guion 05: Narrativas interactivas desde la perspectiva del usuario**
+
+*   **Conceptos Técnicos:**
+    *   **Diseño Centrado en el Usuario:** Filosofía de diseño que prioriza las necesidades, emociones y contexto del usuario final.
+    *   **Empatía:** Principio clave para comprender al usuario, especialmente en temas sensibles para evitar causar daño.
+    *   **Agencia:** Sensación del usuario de que sus decisiones tienen un poder real y consecuencias significativas en la narrativa.
+    *   **Mapas de Experiencia del Usuario (UX Maps):** Diagramas que visualizan el recorrido emocional y práctico del usuario, identificando puntos de frustración y motivación.
+    *   **Personas:** Perfiles ficticios que representan a diferentes tipos de usuarios para guiar el diseño y asegurar la inclusión.
+*   **Herramientas y Plataformas:**
+    *   **Miro:** Pizarra colaborativa online utilizada para crear mapas de experiencia y otros diagramas de diseño.
+
+---
+
+#### **Guion 06: Ética y narrativa interactiva**
+
+*   **Conceptos Técnicos y Éticos:**
+    *   **Consentimiento Informado:** Principio que exige informar claramente al usuario sobre el contenido sensible (violencia, trauma) antes de que participe, permitiéndole decidir si continuar.
+    *   **Transparencia Narrativa:** Ser claro sobre las "reglas del juego" de la interactividad y sobre la perspectiva o sesgos del creador.
+    *   **Protección de Datos:** Responsabilidad de recopilar y utilizar los datos del usuario de manera ética, con su consentimiento explícito y sin manipulación.
+    *   **Rol del Creador como Mediador:** Responsabilidad de traducir historias complejas (especialmente sobre paz y conflicto) sin simplificar en exceso y representando a las personas con dignidad.
